@@ -1,1 +1,0 @@
-* * * * * cd /hospital_cronjob && /usr/local/bin/python hospital_pipeline.py >> cron.log 2>&1
